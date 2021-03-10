@@ -26,12 +26,14 @@ Welcome my GitHub page. I'm a senior student of Computer Enginnering who loves c
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently learning Go and React 🤣
+- 🌱 I’m currently learning Go and React
 - 👯 I’m looking to collaborate with other developers
 - 🤔 I’m looking for help with Go and Microservices
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihsezgin&show_icons=true&theme=blue-green)
+![Fatih's Top-Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihsezgin&langs_count=10&layout=compact&hide=html,css&theme=blue-green)
+
 
 
 ### Languages:
