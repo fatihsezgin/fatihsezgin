@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Fatih  👋
 
-Welcome my GitHub page. I'm a senior student of Computer Enginnering who loves coding and learning new things.
+Welcome my GitHub page. I'm a Software Developer who loves coding and learning new things.
 
 ### Connect with me 📫:
 
