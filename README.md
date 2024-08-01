@@ -19,17 +19,10 @@ Welcome my GitHub page. I'm a Software Developer who loves coding and learning n
 
 ### Connect with me 📫:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FatihSezgin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/FatihSzgn1)
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=FatihSezgin&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FFatihSezgin)](https://www.linkedin.com/in/fatih-sezgin-74ab2b181/)
-[![Instagram Badge](https://img.shields.io/twitter/url?color=purple&label=FatihSezgin&logo=instagram&logoColor=purple&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Ffatihsezgin1)](https://instagram.com/fatihsezgin1/)
+[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=FatihSezgin&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FFatihSezgin)](https://www.linkedin.com/in/fatih-sezgin-74ab2b181/)[![Instagram Badge](https://img.shields.io/twitter/url?color=purple&label=FatihSezgin&logo=instagram&logoColor=purple&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Ffatihsezgin1)](https://instagram.com/fatihsezgin1/)
 
 
 ## I'm a Developer !!
-
-- 🌱 I’m currently learning Go and React
-- 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with Go and Microservices
-- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ![Fatih's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatihsezgin&show_icons=true&)
 ![Fatih's Top-Used Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihsezgin&langs_count=10&layout=compact&hide=html,css&)
@@ -39,7 +32,7 @@ Welcome my GitHub page. I'm a Software Developer who loves coding and learning n
 ### Languages:
 
 <code><a href="https://www.java.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/java.svg"></a></code>
-<code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/javascript.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"></a></code>
 <code><a href="https://nodejs.org" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"></a></code>
 <code><a href="https://python.org" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></a></code>
 <code><a href="https://https://www.gnu.org/software/bash/" target="_blank"><img height="60" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg"></a></code>
@@ -47,7 +40,8 @@ Welcome my GitHub page. I'm a Software Developer who loves coding and learning n
 <br />
 
 ### Frameworks/Databases:
-
+<code><a href="https://spring.io/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"></a></code>
+<code><a href="https://www.rabbitmq.com/" target="_blank"><img height="60" src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg"></a></code>
 <code><a href="https://www.opencv.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></a></code>
 <code><a href="https://www.numpy.org/" target="_blank"><img height="50" src="https://user-images.githubusercontent.com/50221806/86498193-96dbe380-bd39-11ea-8adf-35606778f6a9.png"></a></code>
 <code><a href="https://pandas.pydata.org/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></a></code>
